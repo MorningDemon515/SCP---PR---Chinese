@@ -1,0 +1,3 @@
+V.1.0 folder has been created for older map creator. (Recommended to not use the old version)
+
+window3d_base has been created for backups of window3d. (I save you enough time.)

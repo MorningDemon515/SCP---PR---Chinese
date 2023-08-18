@@ -1,0 +1,647 @@
+----------------------------------------------------------------------------------
+R  E  C  O  M  M  E  N  D  E  D    T  O    B   E    R  E  A  D
+----------------------------------------------------------------------------------
+
+- Respective owner of the content are credited.
+- New contents from 'Project Resurrection' are added.
+- Inaccurate SCPs abilities like SCP-001 originated from the original mods.
+- Please read the informations including "READ ME!.txt".
+
+----------------------------------------------------------------------------------
+I   N   T   R   O   D   U   C   T   I   O   N
+----------------------------------------------------------------------------------
+
+'Project Resurrection' Team Presents...
+
+SCP - CONTAINMENT BREACH: PROJECT RESURRECTION
+
+THANK YOU FOR DOWNLOADING SCP:CB - 'PROJECT RESURRECTION' MOD!
+
+It is RECOMMENDED to read everything. :)
+
+What is 'Project Resurrection'?:
+
+SCP - Containment Breach: Project Resurrection (formerly known as More SCPs/SCPs Mod) is a compilation, "revival" and an add-on mod comprises of discontinued popular mods such as 'Box of Horrors' and 'Fan Breach' with new additional contents (SCPs, etc.) that belongs to 'Project Resurrection' as well as some of the unused 'SCP - Containment Breach' data that were left in the game files.
+
+Prior to V.0.3.0 (V.0.2.5 technically), new contents belonging to 'Project Resurrection' are added.
+
+'Project Resurrection' might receive its own trailer. The concept of the trailer is likely to feature a few implemented SCPs with a preview of one SCP that will make its debut in V.0.5.0a.
+
+We have our own ModDB page as well.
+"http://www.moddb.com/mods/scpcb-project-resurrection-mod"
+
+What started 'Project Resurrection'?:
+
+On September 24th 2015, I uploaded a video called "Scp Containment Breach(v.1.2.3): Testing Scps-005" (Actual title of the video and is still up on YouTube). The thought of creating 'Project Resurrection' didn't occur to me until August 12th 2016. Since 'Box of Horrors' was officially discontinued, I came up with an idea that it would be great if I revive the mod under the name of 'SCPs Mod'. At first, the initial plan was to only port 'Box of Horrors' to the game's latest version but I came across 'Fan Breach' while surfing through UndertowGames forum, which was in the state of being discontinued. Eventually, I released the mod in August 15th 2016 with an early title that was later changed to 'More SCPs Mod' before finally changing the name to 'Project Resurrection' for good. There's a reason why it was named 'Project Resurrection'.
+
+Project would mean "development" or "plan" in other ways while "resurrection" is bringing a thing back to life.
+
+--- Biltz3D Engine Performance ---
+As of V.0.4.0a and below, it can predominantly cause game breakings (E.g. Lags (FPS drop), flickering rooms).
+
+For the current solution, it would be Happy64Jammer's 4GB Patch. From V.0.4.0a, the mod will include an optimized .exe.
+
+This, however, will be temporary as there will be new function implemented in future versions. The optimized version may include graphical glitches.
+
+--- Too Many SCPs ---
+In V.0.5.0, the title of the version is "Too Many SCPs" (If you did not look into the changelog).
+
+I guess it's to commerate the original title of the mod "More SCPs Mod"?
+
+V.0.5.0 will split into four parts: A, B, C, and D
+
+Each parts will include either four or three new SCPs.
+
+With this, this is the first mod to ever include a large number amound of SCPs.
+
+--- Compliation Mod ---
+"Collaborating" isn't a right word to say. We have received permissions from Third Subvision Team Leader ENDSHN and Vane Brain to merge our mod with theirs, to add
+more content. However, we do not have a finalized name.
+
+As of now, there are several titles for the future compilation mod. Temporary:
+
+Temporary Names:
+
+Secure, Contain, Protect - Containment Breach: Complete Collection (SCP - CB: Complete Collection)
+Secure, Contain, Protect - Containment Breach: Escape Or Die
+Secure, Contain, Protect - Containment Breach: Massacre Endangerment
+Secure, Contain, Protect - Containment Breach: (The) Unseen Nightmares
+Secure, Contain, Protect - Project NTF
+Secure, Contain, Protect - Project X NTF
+Secure, Contain, Protect - NTF's Resurrection
+
+(As a matter of fact, there's a lot of grammatical errors in this text file. Albeit, I'm improving little by little.)
+----------------------------------------------------------------------------------
+I   N   S   T   R   U   C   T   I   O   N   S
+----------------------------------------------------------------------------------
+* PLEASE DOWNLOAD THE CORRECT VERSION OF THE MAIN GAME THE MOD REQUIRES *
+* http://undertowgames.com/forum/viewtopic.php?f=3&t=7315 *
+
+- Download the mod file (You already did)
+
+- Open the .RAR with WinRAR (https://www.rarlab.com/download.htm)
+
+- Highlight and drag/extract all the files to your respective game folder (Inside the directory)
+
+- Execute (Click and play) SCP - Project Resurrection.exe
+
+- Enjoy~
+
+(Below is FOR MAP CREATOR USES ONLY)
+
+- Drag "PR Map Creator V.2.1.exe" and "window3d_PR.exe" to your respective map creator folder
+----------------------------------------------------------------------------------
+Q   U   E   S   T   I   O   N   S      &      A   N   S   W   E   R   S
+----------------------------------------------------------------------------------
+(Answers with honest opinion)
+
+- Will you add SCP-682?
+-- I do not know that question. The answer to it is no. Or maybe...
+
+- SCP-001's purpose is inaccurate compared to the wiki database.
+-- It already happened in Fan Breach and besides, there's an endless amount of series continuing on. Think about it, Omni Key Card. It's non-canon.
+
+- I can't find any of those SCPs added into the mod.
+- That's weird. Did you click the right executable? Try teleporting to the room and re-generate another map seed. If this problem persists, report the bug to the mod topic.
+
+- Can you please add SCP-XXXX?
+-- Maybe or maybe not. You would need to wait.
+
+----------------------------------------------------------------------------------
+W   H   A   T   '   S      I   N      I   T   ?
+----------------------------------------------------------------------------------
+
+SCPS:
+
+Box Of Horrors:
+
+- SCP-005 - Skeleton Key
+
+- SCP-009 - Red Ice
+
+- SCP-020 - Unseen Mold
+
+- SCP-038 - The Everything Tree
+
+- SCP-409 - Contagious Crystal
+
+- SCP-1074 - Stendhal Syndrome
+
+Fan Breach:
+
+- SCP-001 (Jonathan Ball Version) - Sheaf Of Papers
+
+- SCP-006 - Fountain of Youth
+
+- SCP-080 - Dark Form
+
+- SCP-113 - Gender-Switcher
+
+- SCP-173-J - The Original "The Sculpture"
+
+- SCP-650 - Startling Statue
+
+- SCP-999 - The Tickle Monster
+
+- SCP-1079 - Dr Wondertainment's Bubblebath Bonbons
+
+----------------------------------------------------------------------------------
+I  N  F  O  R  M  A  T  I  O  N  S    A  B  O  U  T    S  C  P  s   (NOTES)
+----------------------------------------------------------------------------------
+No. It's not about informations about SCPs but rather some things you should TAKE NOTE OF:
+
+-- S C P - 0 0 1 --
+* A experimental version of SCP-001 (Original ability) will be implemented in V.0.5.0. If you are satisfied with the results and suggest that the experimental version should replace the current version, leave a reply down below in the mod topic from UndertowGames forum.
+
+* The current version of SCP-001 in-game does not foreshadow the future SCPs but rather have the ability to spawn SCPs or affect player with SCPs because the series isn't over.
+
+* Containment Chamber located in Entrance Zone
+
+-- S C P - 0 0 5 --
+* SCP-005 is randomly set to any of these locations:
+- SCP-005's Containment Chamber
+- SCP-???'s Containment Chamber
+- Dr. ???'s Office
+
+* If you could not find in any of these locations, that means SCP-005 did not spawn as the note from Dr. Maynard has replaced the key.
+
+* Its containment chamber is located in Light Containment Zone.
+
+-- S C P - 0 0 6 --
+* Instantly triggers godmode effect (Appliable to its containment chamber only when exposed with spring water).
+
+* Getting SCP-006 through SCP-294 is not enough to give the player godmode.
+
+* Requires a level 5 key card to access the control room, which is the only way to disable the "firing room".
+
+* As of V.4.0a, the room is under a "disguise".
+
+-- S C P - 0 0 9 --
+* Most notable sound would be the light blinking sound, a hint to its chamber.
+
+* Containment Chamber located in Heavy Containment Zone
+
+* SCP-009 through SCP-294 is possible.
+
+-- S C P - 0 2 0 --
+* No effects as of yet.
+
+* SCP-173 can appear 
+
+* Containment Chamber located in Heavy Containment Zone
+
+-- S C P - 0 3 8 --
+* Does not clone SCPs that are an entity (living thing)
+
+* Inaccessible due to Remote Control system
+
+* Containment Chamber located in Light Containment Zone
+
+-- S C P - 0 8 0 --
+* Spawn-able via console for now
+
+* Game over timer is triggered if a "eye contact" condition is met.
+
+* Game over timer is reduced for this as an exception.
+
+* Disrupting "eye contact" condition will result game over timer to reset.
+
+* The entity is poorly coded and will be RE-WORKED on V.0.5.0a
+
+-- S C P - 0 8 7 - B --
+* Its building will not be implemented as it is non-canon.
+
+-- S C P - 1 1 3 --
+* It can cause DEATH.
+
+* There will be effects on the death message system and one particular room.
+
+* One room event and death messages are affected.
+
+* There's no female voice acting for SCP-012. Sorry.
+
+-- S C P - 1 3 1 --
+* Press "X" to do "follow" command
+* Press "X" to do "stop" command 
+* Press "X" to do "re-follow" command to stop "defense" mode (This key will be enabled if "defense" mode is on)
+
+-- S C P - 1 7 3 - J --
+* SCP-173-J is an another entity and not a palette swap of SCP-173.
+* A possible sombrero (mexican) version of SCP-173-J?
+
+-- S C P - 4 0 9 --
+* SCP-173 can jumpscare
+
+* Containment Chamber located in Heavy Containment Zone
+
+* SCP-409 through SCP-294 is possible.
+
+-- S C P - 6 5 0 --
+* SCP-650's function is similar to its Unity Remake counterpart
+
+-- S C P - 1 0 2 6 - R U --
+* Available as an entity for now
+
+-- S C P - 1 0 7 4 --
+* Despised SCP by Juan (Out of nowhere)
+
+* Wearing SCP-714 gets the player off from SCP-1074's effect.
+
+* Containment Chamber located in Light Containment Zone
+
+-- S C P - 1 0 7 9 --
+* Found at Light Containment Zone
+
+----------------------------------------------------------------------------------
+C   H   A   N   G   E   L   O   G
+---------------------------------------------------------------------------------- 
+V.0.4.0a PORT *Please be bug-free* (30th December 2018)
+
+- Ported to V.1.3.11
+
+Box Of Horror SCPs:
+
+- Re-added SCP-178 ("3-D" Specs)
+
+Additions:
+
+- SCP-038 will produce a fail clone of SCP-427
+
+Changes:
+
+- Updated the color of the labels
+
+- If you are near the briefcase and you drop the items there, you can pick it up
+
+- You can no longer teleport to pocket dimension via SCP-001 
+
+- SCP-080 is spawn-able via SCP-001
+
+- Soviet GP-5 Gas Mask will take seconds to be put on or taken off similar to SCP-1499
+
+- Re-tweaked SCP-409's crystalization (It was off in the end)
+
+- SCP-409's crystalization should appear in the debug hud
+
+- Re-tweaked 3D Menu a bit
+
+- Removed a command "allachievements" and "giveachievement" should appear in one of the "help" list
+
+- Relocated SCP-409's live footage in a different monitor
+
+- SCP-173-J and SCP-173 should no longer appear at the same time
+
+Bug Fixes:
+
+- "Scary" event should only occur if SCP-005 was placed in its containment chamber
+
+- Fixed briefcase's animation in SCP-001's Containment Chamber
+
+- Fixed SCP-650 displaying in the navigator when the player has not encounter yet
+
+- Fixed SCP-173-J issue
+
+- Fixed other rooms events issue
+
+- Fixed things that were related to the mod that failed to save or load
+
+- Fixed Soviet GP-5 Gas Mask overlay not removed when wearing other headgears 
+
+- Fixed SCP-106 not spawning via SCP-001
+
+----------------------------------------------------------------------------------
+V.0.4.0a *Classified Horror* (August 2018)
+
+Fan Breach SCPs:
+
+- Added SCP-113 (The Gender-Switcher)
+
+- Added SCP-173-J (The Original "The Sculpture")
+
+- Added SCP-650 (Startling Statue)
+
+Additions:
+
+* Rooms *
+
+- Added SCP-001's Containment Chamber
+
+- Added SCP-650's Containment Chamber
+
+- Added standard storage room and mini warehouse (SCP-113 and SCP-1079)
+
+* Models *
+
+- Added SCP-1079's Packet
+
+- Added new model for SCP-650
+
+* Others *
+
+- Added Project Resurrection Credits
+
+- Added achievements for SCP-001, SCP-006 and SCP-1079
+
+- Added one new Easter egg
+
+- Added a Fan Breach command "Morph 173j". You can play as SCP-173-J with special changes...
+
+- Added two Heavy Containment Zone rooms for 3D Menu
+
+Changes:
+
+- If the player's gender is a female, a bunch of death messages changes (Minor) and a special event is triggered
+
+- A chance of SCP-173-J of spawning in certain room events instead of SCP-173
+
+- Re-adjusted SCP-005's Containment Chamber room wall textures
+
+- Re-edited and re-adjusted SCP-005's Containment Chamber textures
+
+- Re-tweaked SCP-001
+
+- Re-tweaked SCP-1079
+
+Bug Fixes:
+
+- Fixed the issue of SCP-005's Containment Chamber and SCP-038's Containment Chamber not generating in the map
+
+----------------------------------------------------------------------------------
+V.3.1 *IMHURT.exe* (28th December 2017):
+
+- Ported over to V.1.3.9
+
+- Switched to Map Creator V.2.0
+
+Changes/Additions:
+
+- All SCP-038's Failed Clones should no longer hold the effects of the original items
+
+- "Pill" cannot be consumed when in Hazmat Suit
+
+- All SCP-038's Failed Clones sounds should be similar to the original ones
+
+- Changed SCP-1499's failed clone name to a better one.
+
+- Soviet GP-5 Gas Mask can be converted to a normal gas mask by SCP-914 (1:1, Fine and Very Fine)
+
+- You can wear Soviet GP-5 Gas Mask now
+
+- Added a condition for SCP-005 on locked keycard (remote control, etc) doors (I forgot to add in V.3.0)
+
+- Re-balanced SCP-038's Achievement 
+
+- Turning away or holding the blink timer will reset the state timer on SCP-080 but it will still look at you unless further distance.
+
+- Minor change to the 3D Menu (Thanks to PXLSHN)
+
+Bug Fixes:
+
+- SCP-1074 should display the correct texture if the condition is applied (If there is)
+
+- Fixed "Scary Event" trigger issue (Apparently, it didn't trigger at all.)
+
+- Fixed "Start" models from not appearing in 3D Menu
+
+- "Start" sound should be playing in the background in 3D Menu
+
+- Fixed 3D Menu upon setting gamma correction or enabling antialiased texts
+
+----------------------------------------------------------------------------------
+V.3.0 *First Part of Fan Breach* (20th December 2017):
+
+Fan Breach:
+
+- Added SCP-001 (Jonathan Bell Version ; Sheaf Of Papers)
+
+- Added SCP-1079 (Dr Wondertainment's Bubblebath Bonbons)
+
+- Added SCP-006 (Fountain Of Youth)
+
+- Added SCP-999 (The Tickle Monster)
+
+- Added SCP-080 (Dark Form) (Only entity is available)
+
+Rooms:
+
+- Added SCP-006 Containment Chamber
+
+- Ported Old Medibay
+
+- Added a testing room without SCP-1074
+
+NPCs:
+
+- Added Ikobot (Fan Breach Last Version) ; Spawning him will result him following you. Nice companion, right? ^_^
+
+- Added a secret NPC in-game and is only spawn-able in console only (Spawn-able isn't the right word. It's "can be activated".)
+
+Achievements:
+
+- Added a achievement "This Looks Familiar..."
+
+Loading Screens:
+
+- Added Fan Breach Loading Screens
+
+Additions:
+
+- Added Security Camera at SCP-409's containment chamber and is now viewable at the security room
+
+- Added 3D Menu
+
+- Added a note regarding to an SCP that does not exist in the foundation database (But has its own page)
+
+- Added texts for SCP-005 used on the "cannot be open" key card lock door
+
+- Added SCP-409 and SCP-006 Drinks
+
+- Added sounds and bloods for SCP-1079
+
+- Re-added Juan
+
+- Added SCP-006 Document
+
+Changes:
+
+- Added a new model for SCP-1079 (No more placeholder pills)
+
+- Added a new model for SCP-001
+
+- SCP-008-1 Zombie Guard should be playing animation before attacking
+
+- Added Binoculars and SCP-006 Document in SCP-006's Containment Chamber Control Room
+
+Bug Fixes:
+
+- Fixed SCP-294 Drink "SCP-009" death sound
+
+- Fixed SCP-009 that cannot be dispensed with SCP-294
+
+- Fixed SCP-409 Ambience sound that is not played during room409
+
+- Fixed "Scary Event"
+
+----------------------------------------------------------------------------------
+V.2.5 *Port to V.1.3.7* (23rd Of April 2017):
+
+Box Of Horrors:
+
+- Ported all the BoH SCPS to V.1.3.7.
+
+- Added all achievements from BoH
+
+Additions:
+
+- Added SCP-005 at Dr.Maynard's Office as a fourth Switch-A-Roo. (Originally one of the locations)
+
+- Minor text changes for SCP-005 to the Key Pad Doors
+
+- New texts for the scanner if SCP-005 is used
+
+- SCP-1499 is part of the chances being cloned by SCP-038
+
+- Added "Scary" Event
+
+Changes:
+
+- Re-added back SCP-1074
+
+- SCP-005 has a new big room. No more closets! (That's what InnocentSam said)
+
+- Re-added back SCP-038's chances of cloning these items
+
+- Re-edit and changed SCP-1074 (Juan disapprove this!)
+
+- Renamed SCP-1074 Joke to "Unknown Document"
+
+- Removed "Hidden Secret"
+
+----------------------------------------------------------------------------------
+V.2.1 *Additions with Bug Fixes* (Released on the 24th of August 2016):
+
+Others:
+
+- Added a command "allachievement" (Unlocks all of the achievement, by inserting 0 to the allachievement)
+
+- Added a hidden secret (Cannot be found in-game)
+
+BugFixes:
+
+- Fixed the 30% chance of cloning items crash (no effects aren't added yet)
+
+----------------------------------------------------------------------------------
+V.2.0 *Second Part of Box Of Horrors* (Released on the 22th of August 2016):
+
+Box Of Horrors SCPs:
+
+- Added SCP-009 (Red Ice)
+
+- Added SCP-020 (Unseen Mold)
+
+- Added SCP-038 (The Everything Tree)
+
+Additions:
+
+- Added all Box Of Horrors loading screens
+
+- SCP-1499 has a small chance of cloning like the others (1025, 714, 005, 500, 513, cup, clipboard and 178)
+
+- Added a command "reset372" because I hate that SCP.
+
+- Added texts for SCP-005 if it is inserted into the key card slot.
+
+Achievements:
+
+- Added Achievements (009, 038 and 020)
+
+Items:
+
+- [REDACTED] disapprove this! (located in SCP-1074 Testing Room)
+
+- "Cup Of Red Ice" is not an option for SCP-294
+
+- Added Binoculars
+
+Rooms:
+
+- Added new room "Medibay"
+
+Bugfixes:
+
+- Fixed MAV if SCP-005 inserted in the hand scanner
+
+- Fixed SCP-1074 for not displaying the correct texture when wearing SCP-714 (Thanks to PXLSHN)
+
+----------------------------------------------------------------------------------
+
+V.1.0 *Soft-Opening of "Project Resurrection" / First revival port of Box Of Horrors* (Released on the 15th of August 2016):
+
+Box Of Horrors SCPs:
+
+- Added SCP-005 (Skeleton Key)
+
+- Added SCP-409 (Contagious Crystal)
+
+Achievements:
+
+- Re-added back SCP-1074 Achievement
+
+- Added two achievements (SCP-005 and SCP-409)
+
+Items:
+
+- Added new items (Maynard Notes, SCP-409 Document and SCP-005 Document)
+
+Additions:
+
+- SCP-005 Document can be found in the archive room
+
+Changes:
+
+- Removed Anti-1074 and restored original SCP-1074 texts
+
+- Increased the rate of spawning of room2test1074
+
+----------------------------------------------------------------------------------
+C   R   E   D   I   T   S
+----------------------------------------------------------------------------------
+
+-- SCP - Containment Breach --
+Regalis: The main creator of the game
+
+-- Project Resurrection --
+Diszxchat: Basic Coder, Room Designer and 3D Modeller. Created "Project Resurrection".
+Ikobot: Shares Fan Breach resources. Does modeling, room designing and possibly coding as well. Leader of Fan Breach.
+PXLSHN/ENDSHN: For assistance. Leader of NTF Mod. 
+Vane Brain: Shares unused game resources. Vice-Leader of NTF Mod.
+The KMan: Modeller from Fan Breach and for Project Resurrection.
+Redbul.Ivan: Fan Breach Room Designer and Modeller, Project Resurrection Modeller.
+Thanks to:
+InnocentSam: For his original SCP-005's Containment Chamber and Document SCP-005.
+Juanjpro: For Box Of Horrors issues.
+DL_Baryonyx: For SCP-006 label and document.
+KennethCrooker: For his assets for the "Secret" NPC.
+Gamers:
+Youtubers: For playing 'Project Resurrection'.
+
+-- Box of Horrors --
+Juanjpro: For making SCP-178, SCP-1074, SCP-038, SCP-009, clipboard mod, random maintenance tunnels, new tesla gates, 3D Menu, and many bugfixes
+InnocentSam: For making SCP-005, SCP-1123, SCP-409, SCP-020, medibay (medical bay) room, achievements menu and half of the night vision goggles
+Prune: For the sound effects/ambiance, assistance in room designing, achievement names with descriptions and mod tester
+Niborius (Nib Games): For making showcase video of BoH SCPS
+Tobop: For the SCP-409 and binoculars models
+Mirocaine: For the night vision goggles model
+Skin_: For the various graphics and textures.
+
+-- Fan Breach --
+Ikobot: Fan Breach Leader (Coding and adding sounds)
+The KMan: Fan Breach 3D Modeller
+Redbul.Ivan: Fan Breach Room Designer (Texturing and adding sounds)
+Rarity From Valley Of Avalar: Fan Breach Texturer and English Translator
+OgaraOrCynder: Concepts and Texturing for Fan Breach
+ICAS-14: Some models for Fan Breach
+Ivan Badikov: Kozub's Anus dimension for Fan Breach (?)
+JELlegendz: Reviewing the mod
+Idera: For SCP-811's model base (Old)
+Kenneth Crooker: Provides other parts of SCP-811's model and textures (Old)
